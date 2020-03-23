@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "832393432783",
+    "firebase_url": "https://firkotasky-a6441.firebaseio.com",
+    "project_id": "firkotasky-a6441",
+    "storage_bucket": "firkotasky-a6441.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832393432783:android:38897bd3668809065731ba",
+        "android_client_info": {
+          "package_name": "com.example.firkotasky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832393432783-1eeo2ra4gah574huqko6276p92nvcctk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firkotasky",
+            "certificate_hash": "de9ae8cddde25a7d4abf5c058f7e498843a82d15"
+          }
+        },
+        {
+          "client_id": "832393432783-o677uuerjeopb869tri2rkrot6pd87b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxIuquYdctCoTzMJhCxRtv1CoDK3LXnSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832393432783-o677uuerjeopb869tri2rkrot6pd87b7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
